@@ -834,7 +834,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="18191a" />
+        <option name="FOREGROUND" value="969896" />
+        <option name="BACKGROUND" value="141515" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
