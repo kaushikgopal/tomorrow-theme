@@ -9,3 +9,10 @@ To install the theme, import the settings.jar within IntelliJ, or PHPStorm, etc.
 * Fork: https://github.com/milesj/Tomorrow-Theme
 
 Please report any issues or suggestions to the fork listed above. Thanks!
+
+
+# My notes:
+
+location of the folder on Mac:
+    
+    ~/Library/Preferences/AndroidStudioPreview/
