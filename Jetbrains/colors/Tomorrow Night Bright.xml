@@ -2674,9 +2674,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="70c0b1" />
+        <option name="EFFECT_COLOR" value="d54e53" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff" />
+        <option name="ERROR_STRIPE_COLOR" value="d54e53" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
